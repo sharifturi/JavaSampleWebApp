@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+    version="2.4">
+
+    <display-name>Sample Web Application</display-name>
+    <description>
+        This is a simple web application to demonstrate Jenkins build, test and deploy capabilities along with ANT.
+    </description>
+
+    <servlet>
+        <servlet-name>SampleServlet</servlet-name>
+        <servlet-class>example.Calculator</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>SampleServlet</servlet-name>
+        <url-pattern>/sample</url-pattern>
+    </servlet-mapping>
+
+</web-app>     
