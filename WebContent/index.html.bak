@@ -1333,13 +1333,8 @@
 </div>
 <!-- Copywrite Section -->
 <div class="container-fluid no-padding copywrite-main-section">
-    <div class="container">
-    	<p>&copy;
-			<script> 
-				var today = new Date();
-				var date = today.getFullYear();
-            </script>
-    		Builder&amp;Contractors.com All rights reserved.</p>
+	<div class="container">
+    	<p>&copy; 2015 Builder&amp;Contractors.com All rights reserved.</p>
     </div>
 </div>
 
