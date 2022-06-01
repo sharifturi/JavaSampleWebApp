@@ -1335,9 +1335,16 @@
 <div class="container-fluid no-padding copywrite-main-section">
     <div class="container">
     	<p>&copy;
-			<script> 
+			<script>
 				var today = new Date();
-				var date = today.getFullYear();
+				//var dd = String(today.getDate()).padStart(2, '0');
+				//var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+				var yyyy = today.getFullYear();
+				
+				//today = mm + '/' + dd + '/' + yyyy;
+				today = '' +  yyyy + '';
+				document.write(today);
+				
             </script>
     		Builder&amp;Contractors.com All rights reserved.</p>
     </div>
