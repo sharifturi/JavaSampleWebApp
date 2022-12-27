@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>About Us</title>
+<title>Services</title>
 <!-- Bootstrap Files with Jquery -->
 <!--<link href="css/bootstrap.css" rel="stylesheet"  type="text/css" />-->
 <link href="css/bootstrap.min.css" rel="stylesheet"  type="text/css" />
@@ -20,6 +20,7 @@
 
 <!-- Portfolio Files -->
 <script type="text/javascript" src="js/construction-portfolio.js"></script>
+
 
 </head>
 <body>
@@ -117,134 +118,16 @@
     </div>
 </div>
 <!-- Page TItle -->
-<div class="page-title-main about-us-page">
+<div class="page-title-main services-page">
 	<div class="container">
-    	<h1>About Us</h1>
+    	<h1>What We Do</h1>
         <ul class="breadcrumbs-ul container">
-            <li><a href="#">Home</a></li>
-            <li>About Us</li>
+        	<li><a href="#">Home</a></li>
+            <li>Services</li>
         </ul>
     </div>
 </div>
-
-
-<!-- About Us Top Section -->
-<div class="main-outer-section about-top-section no-padding-bottom">
-	<div class="container">
-    	<div class="col-md-6 col-sm-6">
-        	<h2>Our History</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-        </div>
-    	<div class="col-md-6 col-sm-6">
-        	<img src="images/about-page-image.png" alt="About Us" />
-        </div>
-    </div>
-</div>
-<!-- Our Team Section -->
-<div class="main-outer-section container-fluid">
-	<h1>Our Team</h1>
-    <div class="container">
-    	<!-- Team Members -->
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-1.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>John Doe</h2>
-                        <h3>CEO</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-2.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Ashley Fletcher</h2>
-                        <h3>Finance</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-3.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Rodney Stratton</h2>
-                        <h3>Constructor</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-4.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Avie Beaton</h2>
-                        <h3>Architect</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-    </div>
-</div>
-<!-- Counter Section -->
-<div class="main-outer-section container-fluid counter-section-main">
-	<div class="container">
-		<div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1485" id="first-value" class="figure-value"></div>
-        	<h2>Clients</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="786" id="second-value" class="figure-value"></div>
-        	<h2>Projects</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1156" id="third-value" class="figure-value"></div>
-        	<h2>Offices</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1265" id="fourth-value" class="figure-value"></div>
-        	<h2>Cabins</h2>
-        </div>    
-    </div>
-</div>
-<!-- Services Section -->
+<!-- Services Main Section -->
 <div class="main-outer-section container-fluid services-page-main">
 	<div class="container what-we-do-main">
     	<div class="col-md-4 col-sm-4 what-we-do">
@@ -283,11 +166,94 @@
             	<a href="#" class="btn-sm">Read More</a>
             </div>
         </div>
+        <div class="col-md-4 col-sm-4 what-we-do">
+        	<div class="what-we-do-image">
+            	<img src="images/what-we-do-4.jpg" alt="Construction" />
+            </div>
+        	<div class="what-we-do-detail">
+            	<h2>Building</h2>
+                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
+            </div>
+            <div class="no-padding what-we-do-link">
+            	<a href="#" class="btn-sm">Read More</a>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-4 what-we-do">
+        	<div class="what-we-do-image">
+            	<img src="images/what-we-do-5.jpg" alt="Construction" />
+            </div>
+        	<div class="what-we-do-detail">
+            	<h2>Isolation</h2>
+                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
+            </div>
+            <div class="no-padding what-we-do-link">
+            	<a href="#" class="btn-sm">Read More</a>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-4 what-we-do">
+        	<div class="what-we-do-image">
+            	<img src="images/what-we-do-6.jpg" alt="Construction" />
+            </div>
+        	<div class="what-we-do-detail">
+            	<h2>Electricy</h2>
+                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
+            </div>
+            <div class="no-padding what-we-do-link">
+            	<a href="#" class="btn-sm">Read More</a>
+            </div>
+        </div>
     </div>
 </div>
-
-
-
+<!-- If Intrested Contact Us -->
+<div class="main-outer-section container-fluid if-intrested-main">
+	<div class="container">
+		<h2>If you interested to work with us, just click the button below</h2>
+        <div class="container-fluid no-padding if-intrested-contact">
+        	<a href="#" class="btn-lg">Contact Us</a>
+        </div>    
+    </div>
+</div>
+<!-- Partner Section -->
+<div class="partner-section-main main-outer-section container-fluid">
+	<div class="container">
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-1.png" alt="Partner" />
+        </div>
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-2.png" alt="Partner" />
+        </div>
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-3.png" alt="Partner" />
+        </div>
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-4.png" alt="Partner" />
+        </div>
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-5.png" alt="Partner" />
+        </div>
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-6.png" alt="Partner" />
+        </div>
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-7.png" alt="Partner" />
+        </div>
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-8.png" alt="Partner" />
+        </div>
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-9.png" alt="Partner" />
+        </div>
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-10.png" alt="Partner" />
+        </div>
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-11.png" alt="Partner" />
+        </div>
+    	<div class="col-md-2 col-sm-3 partner-div">
+        	<img src="images/partner-images/partner-12.png" alt="Partner" />
+        </div>
+    </div>
+</div>
 <!-- Footer Top Contact -->
 <div class="main-outer-section container-fluid footer-top-main default-bg">
 	<div class="container">
@@ -406,7 +372,7 @@
 				document.write(today);
 				
             </script>
-    		Builder&amp;Contractors.com All rights reserved. Powered by: <a href="#" class="default-color" target="_blank">Ali Turi<i class="fa fa-home"></i></a></p>
+    		Builder&amp;Contractors.com All rights reserved.</p>
     </div>
 </div>
 

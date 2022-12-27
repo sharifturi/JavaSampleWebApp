@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>About Us</title>
+<title>Project Detail</title>
 <!-- Bootstrap Files with Jquery -->
 <!--<link href="css/bootstrap.css" rel="stylesheet"  type="text/css" />-->
 <link href="css/bootstrap.min.css" rel="stylesheet"  type="text/css" />
@@ -20,6 +20,7 @@
 
 <!-- Portfolio Files -->
 <script type="text/javascript" src="js/construction-portfolio.js"></script>
+
 
 </head>
 <body>
@@ -117,176 +118,151 @@
     </div>
 </div>
 <!-- Page TItle -->
-<div class="page-title-main about-us-page">
+<div class="page-title-main project-detail-page">
 	<div class="container">
-    	<h1>About Us</h1>
+    	<h1>Redesign of Headquraters</h1>
         <ul class="breadcrumbs-ul container">
             <li><a href="#">Home</a></li>
-            <li>About Us</li>
+            <li><a href="#">Our Project</a></li>
+            <li>Redesign of Headquraters</li>
         </ul>
     </div>
 </div>
 
-
-<!-- About Us Top Section -->
-<div class="main-outer-section about-top-section no-padding-bottom">
+<!-- Project Detail Section -->
+<div class="main-outer-section project-detail">
 	<div class="container">
-    	<div class="col-md-6 col-sm-6">
-        	<h2>Our History</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-        </div>
-    	<div class="col-md-6 col-sm-6">
-        	<img src="images/about-page-image.png" alt="About Us" />
-        </div>
-    </div>
-</div>
-<!-- Our Team Section -->
-<div class="main-outer-section container-fluid">
-	<h1>Our Team</h1>
-    <div class="container">
-    	<!-- Team Members -->
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-1.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>John Doe</h2>
-                        <h3>CEO</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
+    	<div class="project-2-detail latest-project-detail container-fluid no-padding">
+            <div class="col-md-6 col-sm-6">
+                <div data-ride="carousel" class="carousel slide" id="carousel-1">
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img alt="" src="images/projects-images/portfolio-2.png">
                         </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-2.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Ashley Fletcher</h2>
-                        <h3>Finance</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
+                        <div class="item">
+                            <img alt="" src="images/projects-images/portfolio-detail-1.jpg">
                         </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-3.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Rodney Stratton</h2>
-                        <h3>Constructor</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
+                        <div class="item">
+                            <img alt="" src="images/projects-images/portfolio-detail-2.jpg">
                         </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-4.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Avie Beaton</h2>
-                        <h3>Architect</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
+                        <div class="item">
+                            <img alt="" src="images/projects-images/portfolio-detail-3.jpg">
                         </div>
-                    </div>    
+                        <div class="item">
+                            <img alt="" src="images/projects-images/portfolio-detail-4.jpg">
+                        </div>
+                    </div>
+                </div> 
+                <div class="clearfix">
+                    <div data-interval="false" class="carousel slide" id="thumbcarousel-1">
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="thumb" data-slide-to="0" data-target="#carousel-1"><img alt="" src="images/projects-images/portfolio-2.png"></div>
+                                <div class="thumb" data-slide-to="1" data-target="#carousel-1"><img alt="" src="images/projects-images/portfolio-detail-1.jpg"></div>
+                                <div class="thumb" data-slide-to="2" data-target="#carousel-1"><img alt="" src="images/projects-images/portfolio-detail-2.jpg"></div>
+                                <div class="thumb" data-slide-to="3" data-target="#carousel-1"><img alt="" src="images/projects-images/portfolio-detail-3.jpg"></div>
+                                <div class="thumb" data-slide-to="4" data-target="#carousel-1"><img alt="" src="images/projects-images/portfolio-detail-4.jpg"></div>
+                            </div><!-- /item -->
+                        </div><!-- /carousel-inner -->
+                        <a data-slide="prev" role="button" href="#thumbcarousel-1" class="left carousel-control">
+                            <span class="fa fa-angle-left"></span>
+                        </a>
+                        <a data-slide="next" role="button" href="#thumbcarousel-1" class="right carousel-control">
+                            <span class="fa fa-angle-right"></span>
+                        </a>
+                    </div> <!-- /thumbcarousel -->
+                </div><!-- /clearfix -->
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <h2>Replace Exterior Windows</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint occaecat est laborum.</p>
+                <h2>Project Details</h2>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa fa-calendar"></i> Date: 20.08.2015
                 </div>
-            </div>    
-        </div>
-    </div>
-</div>
-<!-- Counter Section -->
-<div class="main-outer-section container-fluid counter-section-main">
-	<div class="container">
-		<div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1485" id="first-value" class="figure-value"></div>
-        	<h2>Clients</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="786" id="second-value" class="figure-value"></div>
-        	<h2>Projects</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1156" id="third-value" class="figure-value"></div>
-        	<h2>Offices</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1265" id="fourth-value" class="figure-value"></div>
-        	<h2>Cabins</h2>
-        </div>    
-    </div>
-</div>
-<!-- Services Section -->
-<div class="main-outer-section container-fluid services-page-main">
-	<div class="container what-we-do-main">
-    	<div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-1.jpg" alt="Construction" />
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa fa-map-marker"></i>Location: City of London, United Kingdom
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa fa-dollar"></i> Value: $1,140,000.00
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa  fa-arrows-alt"></i> Surface Area: 6,700 m2
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa  fa-user"></i> Contracting Investor: Paul Dean
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa  fa-tag"></i> Category: Building, House, Projects
+                </div>
             </div>
-        	<div class="what-we-do-detail">
-            	<h2>Construction</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
+		</div>
+        <div class="project-detail-page-section container-fluid no-padding">
+        	<div class="col-md-6 col-sm-6">
+            	
+                <video controls>
+                  <source src="videos/project-detail.mp4" type="video/mp4">
+                  Your browser does not support HTML5 video.
+                </video>
+            
+            	<!--<img src="images/projects-images/project-video-image.png" alt="" />-->
             </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-2.jpg" alt="Construction" />
-            </div>
-        	<div class="what-we-do-detail">
-            	<h2>Renovations</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
-            </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-3.jpg" alt="Construction" />
-            </div>
-        	<div class="what-we-do-detail">
-            	<h2>Architecture</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
-            </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
+            <div class="col-md-6 col-sm-6">
+                <h2>Redesign of Headquraters</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <h2>Project Details</h2>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa fa-calendar"></i> Date: 20.08.2015
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa fa-map-marker"></i>Location: City of London, United Kingdom
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa fa-dollar"></i> Value: $1,140,000.00
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa  fa-arrows-alt"></i> Surface Area: 6,700 m2
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa  fa-user"></i> Contracting Investor: Paul Dean
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa  fa-tag"></i> Category: Building, House, Projects
+                </div>
             </div>
         </div>
-    </div>
-</div>
-
-
+        <div class="project-detail-page-section container-fluid no-padding">
+        	<div class="col-md-12 col-sm-12 col-xs-12 project-detail-banner">
+            <img src="images/projects-images/project-detail-banner.png" alt="" />
+            </div>
+            <div class="col-md-6 col-sm-6">
+            	<h2>Redesign of Headquraters</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia est laborum.</p>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <h2>Project Details</h2>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa fa-calendar"></i> Date: 20.08.2015
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa fa-map-marker"></i>Location: City of London, United Kingdom
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa fa-dollar"></i> Value: $1,140,000.00
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa  fa-arrows-alt"></i> Surface Area: 6,700 m2
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa  fa-user"></i> Contracting Investor: Paul Dean
+                </div>
+                <div class="container-fluid project-detail-list no-padding">
+                    <i class="fa  fa-tag"></i> Category: Building, House, Projects
+                </div>
+            </div>
+        </div>
+	</div>
+</div>			
 
 <!-- Footer Top Contact -->
 <div class="main-outer-section container-fluid footer-top-main default-bg">
@@ -406,7 +382,7 @@
 				document.write(today);
 				
             </script>
-    		Builder&amp;Contractors.com All rights reserved. Powered by: <a href="#" class="default-color" target="_blank">Ali Turi<i class="fa fa-home"></i></a></p>
+    		Builder&amp;Contractors.com All rights reserved.</p>
     </div>
 </div>
 

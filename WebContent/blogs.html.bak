@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>About Us</title>
+<title>Blog</title>
 <!-- Bootstrap Files with Jquery -->
 <!--<link href="css/bootstrap.css" rel="stylesheet"  type="text/css" />-->
 <link href="css/bootstrap.min.css" rel="stylesheet"  type="text/css" />
@@ -20,6 +20,7 @@
 
 <!-- Portfolio Files -->
 <script type="text/javascript" src="js/construction-portfolio.js"></script>
+
 
 </head>
 <body>
@@ -117,174 +118,181 @@
     </div>
 </div>
 <!-- Page TItle -->
-<div class="page-title-main about-us-page">
+<div class="page-title-main blog-page">
 	<div class="container">
-    	<h1>About Us</h1>
+    	<h1>Latest From Blog</h1>
         <ul class="breadcrumbs-ul container">
             <li><a href="#">Home</a></li>
-            <li>About Us</li>
+            <li>Blog</li>
         </ul>
     </div>
 </div>
 
+<!-- Blog Page -->
+<div class="main-outer-section blog-page-main container-fluid">
+	<div class="container">
+		<!-- Left Wrapper Section -->
+        <div class="col-md-9 col-sm-9 wrapper-section services-detail-main no-padding-left">
+        	<!-- Blog Section -->
+            <div class="blog-main-div container-fluid no-padding margin-bottom-70">
+                <!-- Blog Date Div -->
+                <div class="col-md-1 col-sm-2 no-padding">
+                    <div class="blog-date-div">
+                        <span>20 Aug</span>
+                    </div>
+                </div>
+                <!-- Blog Detail -->
+                <div class="col-md-11 col-sm-10 no-padding-right">
+                    <img src="images/blog-images/blog-1.png" alt="Blog Image" />
+                    <ul class="post-detail-list">
+                        <li><i class="fa fa-user"></i>Posted by: Author</li>
+                        <li><i class="fa  fa-comments-o"></i>Comments: 10</li>
+                        <li><i class="fa  fa-heart-o"></i>Love it 50</li>
+                    </ul>
+                    <h2 class="border-bottom-one"><a href="#">Make Your Home Paradise</a></h2>
+                    <p>ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+                    <div class="clearfix btn-left-align">
+                        <a href="#" class="btn-lg">Read More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="blog-main-div container-fluid no-padding margin-bottom-70">
+            <!-- Blog Date Div -->
+                <div class="col-md-1 col-sm-2 no-padding">
+                    <div class="blog-date-div">
+                        <span>20 Aug</span>
+                    </div>
+                </div>
+            <!-- Blog Detail -->
+                <div class="col-md-11 col-sm-10 no-padding-right">
+                    <img src="images/blog-images/blog-2.png" alt="Blog Image" />
+                    <ul class="post-detail-list">
+                        <li><i class="fa fa-user"></i>Posted by: Author</li>
+                        <li><i class="fa  fa-comments-o"></i>Comments: 10</li>
+                        <li><i class="fa  fa-heart-o"></i>Love it 50</li>
+                    </ul>
+                    <h2 class="border-bottom-one"><a href="#">Make Your Home Paradise</a></h2>
+                    <p>ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+                    <div class="clearfix btn-left-align">
+                        <a href="#" class="btn-lg">Read More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="blog-main-div container-fluid no-padding margin-bottom-70">
+                <!-- Blog Date Div -->
+                <div class="col-md-1 col-sm-2 no-padding">
+                    <div class="blog-date-div">
+                        <span>20 Aug</span>
+                    </div>
+                </div>
+                <!-- Blog Detail -->
+                <div class="col-md-11 col-sm-10 no-padding-right">
+                    <img src="images/blog-images/blog-3.png" alt="Blog Image" />
+                    <ul class="post-detail-list">
+                        <li><i class="fa fa-user"></i>Posted by: Author</li>
+                        <li><i class="fa  fa-comments-o"></i>Comments: 10</li>
+                        <li><i class="fa  fa-heart-o"></i>Love it 50</li>
+                    </ul>
+                    <h2 class="border-bottom-one"><a href="#">Make Your Home Paradise</a></h2>
+                    <p>ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+                    <div class="clearfix btn-left-align">
+                        <a href="#" class="btn-lg">Read More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pagenation-section container-fluid no-padding">
+                <ul>
+                    <li><a href="#">1</a></li>
+                    <li><a href="#">2</a></li>
+                    <li><a href="#">3</a></li>
+                    <li class="next-page-btn"><a href="#"><i class="fa  fa-angle-right"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- Right Sidebar Section -->
+       	<div class="col-md-3 col-sm-3 sidebar-section no-padding-right">
+        	<!-- Search Section -->
+            <div class="sidebar-inner-section sidebar-search">
+            	<form action="#" method="post">
+                	<input type="text" class="input-sm" placeholder="Search" />
+                </form>
+            </div>
+            <!-- Categories Section -->
+        	<div class="sidebar-inner-section categories-list-section">
+            	<h2>Categories</h2>
+                <ul>
+                	<li><a href="#">Architect</a> <label class="pull-right">(6)</label></li>
+                	<li><a href="#">House Building</a> <label class="pull-right">(8)</label></li>
+                	<li><a href="#">Interior Designing</a><label class="pull-right">(5)</label></li>
+                	<li><a href="#">Electricy</a><label class="pull-right">(2)</label></li>
+                </ul>
+            </div>
+            <!-- Latest Post -->
+        	<div class="sidebar-inner-section latest-post-section">
+            	<h2>Latest Posts</h2>
+                <div class="latest-posts-sidebar no-padding container-fluid">
+					<div class="col-md-4 col-sm-4 col-xs-4 no-padding-left">
+                    	<a href="#">
+                        	<img src="images/latest-post-1.png" alt="Latest Post" />
+                        </a>
+                    </div>                	
+					<div class="col-md-8 col-sm-8 col-xs-8 no-padding">
+                    	<h3><a href="#">Starter Homes Review</a></h3>
+                        <p>September 20, 2015</p>
+                    </div>
+                </div>
+                <div class="latest-posts-sidebar no-padding container-fluid">
+					<div class="col-md-4 col-sm-4 col-xs-4 no-padding-left">
+                    	<a href="#">
+                        	<img src="images/latest-post-2.png" alt="Latest Post" />
+                        </a>
+                    </div>                	
+					<div class="col-md-8 col-sm-8 col-xs-8 no-padding">
+                    	<h3><a href="#">Living Room Renovation</a></h3>
+                        <p>September 15, 2015</p>
+                    </div>
+                </div>
+                <div class="latest-posts-sidebar no-padding container-fluid">
+					<div class="col-md-4 col-sm-4 col-xs-4 no-padding-left">
+                    	<a href="#">
+                        	<img src="images/latest-post-3.png" alt="Latest Post" />
+                        </a>
+                    </div>                	
+					<div class="col-md-8 col-sm-8 col-xs-8 no-padding">
+                    	<h3><a href="#">Improve Joint Placement</a></h3>
+                        <p>September 08, 2015</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Archives Section -->
+            <div class="sidebar-inner-section archives-section-sidebar">
+            	<h2>Archives</h2>
+                <ul>
+                	<li><a href="#">March  2015  <i class="pull-right">7</i></a></li>
+                	<li><a href="#">March  2015  <i class="pull-right">7</i></a></li>
+                	<li><a href="#">March  2015  <i class="pull-right">7</i></a></li>
+                	<li><a href="#">March  2015  <i class="pull-right">7</i></a></li>
+                </ul>
+            </div>
+            <!-- Tags Section -->
+            <div class="sidebar-inner-section tags-section-sidebar">
+            	<h2>Tag Clound</h2>
+                <ul>
+                	<li class="pull-left"><a href="#">architect</a></li>
+                	<li class="pull-left"><a href="#">building</a></li>
+                	<li class="pull-left"><a href="#">construction</a></li>
+                	<li class="pull-left"><a href="#">House</a></li>
+                	<li class="pull-left"><a href="#">painting</a></li>
+                	<li class="pull-left"><a href="#">isolation</a></li>
+                	<li class="pull-left"><a href="#">elctricy</a></li>
+                	<li class="pull-left"><a href="#">projecting</a></li>
+                </ul>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
 
-<!-- About Us Top Section -->
-<div class="main-outer-section about-top-section no-padding-bottom">
-	<div class="container">
-    	<div class="col-md-6 col-sm-6">
-        	<h2>Our History</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-        </div>
-    	<div class="col-md-6 col-sm-6">
-        	<img src="images/about-page-image.png" alt="About Us" />
-        </div>
-    </div>
-</div>
-<!-- Our Team Section -->
-<div class="main-outer-section container-fluid">
-	<h1>Our Team</h1>
-    <div class="container">
-    	<!-- Team Members -->
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-1.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>John Doe</h2>
-                        <h3>CEO</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-2.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Ashley Fletcher</h2>
-                        <h3>Finance</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-3.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Rodney Stratton</h2>
-                        <h3>Constructor</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-4.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Avie Beaton</h2>
-                        <h3>Architect</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-    </div>
-</div>
-<!-- Counter Section -->
-<div class="main-outer-section container-fluid counter-section-main">
-	<div class="container">
-		<div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1485" id="first-value" class="figure-value"></div>
-        	<h2>Clients</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="786" id="second-value" class="figure-value"></div>
-        	<h2>Projects</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1156" id="third-value" class="figure-value"></div>
-        	<h2>Offices</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1265" id="fourth-value" class="figure-value"></div>
-        	<h2>Cabins</h2>
-        </div>    
-    </div>
-</div>
-<!-- Services Section -->
-<div class="main-outer-section container-fluid services-page-main">
-	<div class="container what-we-do-main">
-    	<div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-1.jpg" alt="Construction" />
-            </div>
-        	<div class="what-we-do-detail">
-            	<h2>Construction</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
-            </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-2.jpg" alt="Construction" />
-            </div>
-        	<div class="what-we-do-detail">
-            	<h2>Renovations</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
-            </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-3.jpg" alt="Construction" />
-            </div>
-        	<div class="what-we-do-detail">
-            	<h2>Architecture</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
-            </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 
@@ -406,7 +414,7 @@
 				document.write(today);
 				
             </script>
-    		Builder&amp;Contractors.com All rights reserved. Powered by: <a href="#" class="default-color" target="_blank">Ali Turi<i class="fa fa-home"></i></a></p>
+    		Builder&amp;Contractors.com All rights reserved.</p>
     </div>
 </div>
 

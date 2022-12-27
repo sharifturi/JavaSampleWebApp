@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>About Us</title>
+<title>Service Detail Page</title>
 <!-- Bootstrap Files with Jquery -->
 <!--<link href="css/bootstrap.css" rel="stylesheet"  type="text/css" />-->
 <link href="css/bootstrap.min.css" rel="stylesheet"  type="text/css" />
@@ -20,6 +20,7 @@
 
 <!-- Portfolio Files -->
 <script type="text/javascript" src="js/construction-portfolio.js"></script>
+
 
 </head>
 <body>
@@ -117,177 +118,77 @@
     </div>
 </div>
 <!-- Page TItle -->
-<div class="page-title-main about-us-page">
+<div class="page-title-main services-page">
 	<div class="container">
-    	<h1>About Us</h1>
+    	<h1>Construction</h1>
         <ul class="breadcrumbs-ul container">
-            <li><a href="#">Home</a></li>
-            <li>About Us</li>
+        	<li><a href="#">Home</a></li>
+            <li><a href="#">Services</a></li>
+            <li>Construction</li>
         </ul>
     </div>
 </div>
-
-
-<!-- About Us Top Section -->
-<div class="main-outer-section about-top-section no-padding-bottom">
-	<div class="container">
-    	<div class="col-md-6 col-sm-6">
-        	<h2>Our History</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-        </div>
-    	<div class="col-md-6 col-sm-6">
-        	<img src="images/about-page-image.png" alt="About Us" />
-        </div>
-    </div>
-</div>
-<!-- Our Team Section -->
+<!-- Services Detial Main Section -->
 <div class="main-outer-section container-fluid">
-	<h1>Our Team</h1>
-    <div class="container">
-    	<!-- Team Members -->
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-1.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>John Doe</h2>
-                        <h3>CEO</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-2.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Ashley Fletcher</h2>
-                        <h3>Finance</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-3.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Rodney Stratton</h2>
-                        <h3>Constructor</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-4.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Avie Beaton</h2>
-                        <h3>Architect</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-    </div>
-</div>
-<!-- Counter Section -->
-<div class="main-outer-section container-fluid counter-section-main">
 	<div class="container">
-		<div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1485" id="first-value" class="figure-value"></div>
-        	<h2>Clients</h2>
+        <!-- Sidebar Section -->
+        <div class="col-md-3 col-sm-3 sidebar-section no-padding-left">
+        	<div class="sidebar-inner-section services-sidebar-inner-section">
+            	<h2>Services</h2>
+                <ul class="services-list-on-detail-page">
+                	<li><a href="#" class="active-service">Construction</a></li>
+                	<li><a href="#">Renovations</a></li>
+                	<li><a href="#">Architecture</a></li>
+                    <li><a href="#">Building</a></li>
+                	<li><a href="#">Isolation</a></li>
+                	<li><a href="#">Electricity</a></li>
+                </ul>
+            </div>
+            <div class="sidebar-inner-section services-sidebar-inner-section">
+            	<h2>Our Office</h2>
+                <div class="container-fluid no-padding contact-list">
+                    <i class="fa fa-clock-o"></i>Mon-sat 8am-6pm
+                </div>
+                <div class="container-fluid no-padding contact-list">
+                    <i class="fa fa-phone"></i>123 1234 8548
+                </div>
+                <div class="container-fluid no-padding contact-list">
+                    <i class="fa fa-envelope"></i>info@builder&amp;contractors.com
+                </div>
+                <div class="container-fluid no-padding contact-list">
+                    <i class="fa fa-map-marker"></i>City of London, United Kingdom
+                </div>
+            </div>
+
         </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="786" id="second-value" class="figure-value"></div>
-        	<h2>Projects</h2>
+        <!-- Wrapper section -->
+        <div class="col-md-9 col-sm-9 wrapper-section services-detail-main no-padding-right">
+            <div class="service-detail-image">
+                <img src="images/services-detail-main-image.png" alt="Services Detail Main Image" />
+            </div>
+            <h2>Construction</h2>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+			<p>Vestibulum sodales ante a purus volutpat euismod. Proin sodales quam nec ante sollicitudin lacinia. Ut egestas bibendum tempor. Morbi non nibh sit amet ligula blandit ullamcorper in nec risus. Pellentesque fringilla diam faucibus tortor bibendum vulputate. Etiam turpis urna, rhoncus et mattis ut, dapibus eu nunc. Nunc sed aliquet nisi. Nullam ut magna non lacus adipiscing volutpat. Aenean odio mauris, consectetur quis consequat quis, blandit a nunc. Sed orci erat, placerat ac interdum ut, suscipit eu augue. Nunc vitae mi tortor. Ut vel justo quis lectus elementum ullamcorper volutpat vel libero.</p>
+            <!-- Inner Two Section -->
+            <div class="container-fluid no-padding services-inner-main">
+            	<div class="col-md-6 col-sm-6 no-padding-left">
+                	<div class="service-detail-image">
+                    	<img src="images/services-detail-image1.png" alt="" />
+                    </div>
+                    <h2>Great Planning</h2>
+                    <p>Vestibulum sodales ante a purus volutpat euismod. Proin sodales quam nec ante sollicitudin lacinia. Ut egestas bibendum tempor. Morbi non nibh sit amet ligula blandit ullamcorper in nec risus. Pellentesque fringilla diam faucibus tortor bibendum vulputate.</p>
+                </div>
+                <div class="col-md-6 col-sm-6 no-padding-right">
+                	<div class="service-detail-image">
+                    	<img src="images/services-detail-image2.png" alt="" />
+                    </div>
+                    <h2>Hard &amp; Fast Working</h2>
+                    <p>Vestibulum sodales ante a purus volutpat euismod. Proin sodales quam nec ante sollicitudin lacinia. Ut egestas bibendum tempor. Morbi non nibh sit amet ligula blandit ullamcorper in nec risus. Pellentesque fringilla diam faucibus tortor bibendum vulputate.</p>
+                </div>
+            </div>
         </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1156" id="third-value" class="figure-value"></div>
-        	<h2>Offices</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1265" id="fourth-value" class="figure-value"></div>
-        	<h2>Cabins</h2>
-        </div>    
-    </div>
+	</div>    
 </div>
-<!-- Services Section -->
-<div class="main-outer-section container-fluid services-page-main">
-	<div class="container what-we-do-main">
-    	<div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-1.jpg" alt="Construction" />
-            </div>
-        	<div class="what-we-do-detail">
-            	<h2>Construction</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
-            </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-2.jpg" alt="Construction" />
-            </div>
-        	<div class="what-we-do-detail">
-            	<h2>Renovations</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
-            </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-3.jpg" alt="Construction" />
-            </div>
-        	<div class="what-we-do-detail">
-            	<h2>Architecture</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
-            </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
 <!-- Footer Top Contact -->
 <div class="main-outer-section container-fluid footer-top-main default-bg">
 	<div class="container">
@@ -406,7 +307,7 @@
 				document.write(today);
 				
             </script>
-    		Builder&amp;Contractors.com All rights reserved. Powered by: <a href="#" class="default-color" target="_blank">Ali Turi<i class="fa fa-home"></i></a></p>
+    		Builder&amp;Contractors.com All rights reserved.</p>
     </div>
 </div>
 

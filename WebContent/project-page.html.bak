@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Project Page Design 2</title>
+<title>Project Page 1</title>
 <!-- Bootstrap Files with Jquery -->
 <!--<link href="css/bootstrap.css" rel="stylesheet"  type="text/css" />-->
 <link href="css/bootstrap.min.css" rel="stylesheet"  type="text/css" />
@@ -140,7 +140,7 @@
           <li class="filter" data-filter="plumbing">Plumbing</li>
           <li class="filter" data-filter="tiling">Tiling</li>
         </ul>
-        <ul id="portfolio" class="project-page-spacing">
+        <ul id="portfolio">
         <!-- Project Thumbs One By One -->	
           <li class="item architecture">
             <img src="images/projects-images/portfolio-1.png" alt="" />
@@ -1433,7 +1433,7 @@
 				document.write(today);
 				
             </script>
-    		Builder&amp;Contractors.com All rights reserved. Powered by: <a href="#" class="default-color" target="_blank">Ali Turi<i class="fa fa-home"></i></a></p>
+    		Builder&amp;Contractors.com All rights reserved.</p>
     </div>
 </div>
 

@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>About Us</title>
+<title>Typography</title>
 <!-- Bootstrap Files with Jquery -->
 <!--<link href="css/bootstrap.css" rel="stylesheet"  type="text/css" />-->
 <link href="css/bootstrap.min.css" rel="stylesheet"  type="text/css" />
@@ -20,6 +20,7 @@
 
 <!-- Portfolio Files -->
 <script type="text/javascript" src="js/construction-portfolio.js"></script>
+
 
 </head>
 <body>
@@ -117,176 +118,154 @@
     </div>
 </div>
 <!-- Page TItle -->
-<div class="page-title-main about-us-page">
+<div class="page-title-main typography-page">
 	<div class="container">
-    	<h1>About Us</h1>
+    	<h1>Typography</h1>
         <ul class="breadcrumbs-ul container">
             <li><a href="#">Home</a></li>
-            <li>About Us</li>
+            <li><a href="#">Page</a></li>
+            <li>Typography</li>
         </ul>
     </div>
 </div>
 
-
-<!-- About Us Top Section -->
-<div class="main-outer-section about-top-section no-padding-bottom">
+<!-- Typography Page -->
+<div class="main-outer-section typography-page-main container-fluid">
 	<div class="container">
-    	<div class="col-md-6 col-sm-6">
-        	<h2>Our History</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    	<!-- Typography Section ( One Column ) -->
+        <div class="container-fluid no-padding typography-section">
+        	<div class="col-md-12 col-sm-12">
+				<h2>One Column</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>            </div>
         </div>
-    	<div class="col-md-6 col-sm-6">
-        	<img src="images/about-page-image.png" alt="About Us" />
+        <!-- Typography Section ( Two Column ) -->
+        <div class="container-fluid no-padding typography-section">
+        	<div class="col-md-6 col-sm-6">
+				<h2>Two Columns</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit </p>            
+            </div>
+            <div class="col-md-6 col-sm-6">
+				<h2>Two Columns</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit </p>            
+            </div>
         </div>
+        <!-- Typography Section ( Three Column ) -->
+        <div class="container-fluid no-padding typography-section">
+        	<div class="col-md-4 col-sm-4">
+				<h2>Three Columns</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>            
+            </div>
+            <div class="col-md-4 col-sm-4">
+				<h2>Three Columns</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>            
+            </div>
+            <div class="col-md-4 col-sm-4">
+				<h2>Three Columns</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>            
+            </div>
+        </div>
+        <!-- Typography Section ( Four Column ) -->
+        <div class="container-fluid no-padding typography-section">
+        	<div class="col-md-3 col-sm-3">
+				<h2>Four Columns</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>            
+            </div>
+            <div class="col-md-3 col-sm-3">
+				<h2>Four Columns</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>            
+            </div>
+            <div class="col-md-3 col-sm-3">
+				<h2>Four Columns</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>            
+            </div>
+            <div class="col-md-3 col-sm-3">
+				<h2>Four Columns</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>            
+            </div>
+        </div>
+        <!-- Typography Section ( Bullets ) -->
+        <div class="container-fluid no-padding typography-section">
+        	<div class="col-md-4 col-sm-4">
+				<h2>Bullets Style 1</h2>
+                <ul class="es-bullets-style-one">
+                	<li><a href="#">Nemo enim ipsam voluptatem quia voluptas sit aspernatur</a></li>
+                	<li><a href="#">Sed ut perspiciatis unde omnis iste natus error sit voluptat</a></li>
+                	<li><a href="#">Quis autem vel eum iure reprehenderit qui in ea volupta</a></li>
+                    <li><a href="#">NNeque porro quisquam est, qui dolorem ipsum quia dolor</a></li>
+                    <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit</a></li>
+                    <li><a href="#">Lorem ipsum dolor sit amet, consectetur </a></li>
+                </ul>            
+            </div>
+            <div class="col-md-4 col-sm-4">
+				<h2>Bullets Style 2</h2>
+                <ul class="es-bullets-style-two">
+                	<li><a href="#">Nemo enim ipsam voluptatem quia voluptas sit aspernatur</a></li>
+                	<li><a href="#">Sed ut perspiciatis unde omnis iste natus error sit voluptat</a></li>
+                	<li><a href="#">Quis autem vel eum iure reprehenderit qui in ea volupta</a></li>
+                    <li><a href="#">NNeque porro quisquam est, qui dolorem ipsum quia dolor</a></li>
+                    <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit</a></li>
+                    <li><a href="#">Lorem ipsum dolor sit amet, consectetur </a></li>
+                </ul>            
+            </div>
+            <div class="col-md-4 col-sm-4">
+				<h2>Bullets Style 3</h2>
+                <ul class="es-bullets-style-three">
+                	<li><a href="#">Nemo enim ipsam voluptatem quia voluptas sit aspernatur</a></li>
+                	<li><a href="#">Sed ut perspiciatis unde omnis iste natus error sit voluptat</a></li>
+                	<li><a href="#">Quis autem vel eum iure reprehenderit qui in ea volupta</a></li>
+                    <li><a href="#">NNeque porro quisquam est, qui dolorem ipsum quia dolor</a></li>
+                    <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit</a></li>
+                    <li><a href="#">Lorem ipsum dolor sit amet, consectetur </a></li>
+                </ul>            
+            </div>
+        </div>
+        <!-- Typography Section ( Large Buttons ) -->
+        <div class="container-fluid no-padding typography-section button-section">
+        	<div class="col-md-12 col-sm-12">
+				<h2>Bullets Style 1</h2>
+                <a href="#" class="es-large-btn simple-large-btn pull-left margin-right-35">Button</a>
+                <a href="#" class="es-large-btn simple-large-btn hover-one pull-left margin-right-35">Hover</a>
+                
+                <a href="#" class="es-large-btn default-button pull-left margin-right-35">Button</a>
+                <a href="#" class="es-large-btn default-button hover-one pull-left margin-right-35">Hover</a>
+                
+                <a href="#" class="es-large-btn corner-black-button pull-left margin-right-35">Button</a>
+                <a href="#" class="es-large-btn corner-black-button hover-one pull-left">Hover</a>
+                
+                <a href="#" class="es-large-btn round-corner-button pull-left margin-right-35">Button</a>
+                <a href="#" class="es-large-btn round-corner-button hover-one pull-left">Hover</a>
+                
+                
+                
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <!-- Typography Section ( Large Buttons ) -->
+        <div class="container-fluid no-padding typography-section button-section">
+        	<div class="col-md-12 col-sm-12">
+				<h2>Bullets Style 1</h2>
+                <a href="#" class="es-small-btn simple-large-btn pull-left margin-right-35">Button</a>
+                <a href="#" class="es-small-btn simple-large-btn hover-one pull-left margin-right-35">Hover</a>
+                
+                <a href="#" class="es-small-btn default-button pull-left margin-right-35">Button</a>
+                <a href="#" class="es-small-btn default-button hover-one pull-left margin-right-35">Hover</a>
+                
+                <a href="#" class="es-small-btn corner-black-button pull-left margin-right-35">Button</a>
+                <a href="#" class="es-small-btn corner-black-button hover-one pull-left margin-right-35">Hover</a>
+                
+                <a href="#" class="es-small-btn round-corner-button pull-left margin-right-35">Button</a>
+                <a href="#" class="es-small-btn round-corner-button hover-one pull-left">Hover</a>
+                
+                
+                
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        
+        
+        
     </div>
 </div>
-<!-- Our Team Section -->
-<div class="main-outer-section container-fluid">
-	<h1>Our Team</h1>
-    <div class="container">
-    	<!-- Team Members -->
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-1.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>John Doe</h2>
-                        <h3>CEO</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-2.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Ashley Fletcher</h2>
-                        <h3>Finance</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-3.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Rodney Stratton</h2>
-                        <h3>Constructor</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-        <div class="col-md-3 col-sm-3">
-        	<div class="team-member">
-                <img src="images/team-members/team-member-4.png" alt="Team Member" />
-                <div class="team-overlay">
-                    <div class="team-overlay-inner">
-                        <h2>Avie Beaton</h2>
-                        <h3>Architect</h3>
-                        <div class="social-main">
-                            <ul>
-                        <li><a href="#" class="default-color"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" class="default-color"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                        </div>
-                    </div>    
-                </div>
-            </div>    
-        </div>
-    </div>
-</div>
-<!-- Counter Section -->
-<div class="main-outer-section container-fluid counter-section-main">
-	<div class="container">
-		<div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1485" id="first-value" class="figure-value"></div>
-        	<h2>Clients</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="786" id="second-value" class="figure-value"></div>
-        	<h2>Projects</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1156" id="third-value" class="figure-value"></div>
-        	<h2>Offices</h2>
-        </div>
-        <div class="col-md-3 col-sm-3 about-counter">
-        	<div data-id="1265" id="fourth-value" class="figure-value"></div>
-        	<h2>Cabins</h2>
-        </div>    
-    </div>
-</div>
-<!-- Services Section -->
-<div class="main-outer-section container-fluid services-page-main">
-	<div class="container what-we-do-main">
-    	<div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-1.jpg" alt="Construction" />
-            </div>
-        	<div class="what-we-do-detail">
-            	<h2>Construction</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
-            </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-2.jpg" alt="Construction" />
-            </div>
-        	<div class="what-we-do-detail">
-            	<h2>Renovations</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
-            </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-4 what-we-do">
-        	<div class="what-we-do-image">
-            	<img src="images/what-we-do-3.jpg" alt="Construction" />
-            </div>
-        	<div class="what-we-do-detail">
-            	<h2>Architecture</h2>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium  oloremque laudantium, totam rem aperiam, eaque ipsa quae aperiam loremque laudantium, totam rem</p>
-            </div>
-            <div class="no-padding what-we-do-link">
-            	<a href="#" class="btn-sm">Read More</a>
-            </div>
-        </div>
-    </div>
-</div>
-
-
 
 <!-- Footer Top Contact -->
 <div class="main-outer-section container-fluid footer-top-main default-bg">
@@ -406,7 +385,7 @@
 				document.write(today);
 				
             </script>
-    		Builder&amp;Contractors.com All rights reserved. Powered by: <a href="#" class="default-color" target="_blank">Ali Turi<i class="fa fa-home"></i></a></p>
+    		Builder&amp;Contractors.com All rights reserved.</p>
     </div>
 </div>
 
