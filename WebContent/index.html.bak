@@ -164,6 +164,25 @@
         </div>
     </div>
 </div>
+<!-- Who We Are Section -->
+<div class="container-fluid main-outer-section who-we-are-outer">
+	<h1>Who We are</h1>
+    <div class="container about-section-main">
+    	<div class="col-md-7 col-sm-7">
+        	<h2>We are the Best on the Market</h2>
+        	<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam tempora  quis nostrum exercitationem ullam dolor ...</p>
+            <ul class="container-fluid no-padding about-feature">
+            	<li><i class="fa fa-lightbulb-o default-bg"></i>Plan</li>
+            	<li><i class="fa fa-pencil default-bg"></i>Design</li>
+            	<li><i class="fa fa-pencil default-bg"></i>Delivery</li>
+            </ul>
+        </div>
+        <div class="col-md-5 col-sm-5 what-we-do-images">
+        	<img src="images/what-we-do-main.png" alt="What We Do"  class="who-we-are-top-image"/>
+        	<img src="images/what-we-do-inner.png" alt="What We Do Inner" class="what-we-do-inner-image who-we-are-bottom-image" />
+        </div>
+    </div>
+</div>
 
 <!-- Our Team Section -->
 <div class="main-outer-section container-fluid">
